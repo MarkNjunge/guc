@@ -1,0 +1,11 @@
+[package]
+name = "guc"
+version = "1.0.0"
+authors = ["MarkNjunge <mark.kamau@outlook.com>"]
+description = "A small application to convert a git url from SSH to HTTPS."
+edition = "2018"
+readme = "README.MD"
+repository = "https://github.com/MarkNjunge/guc"
+license = "Unlicnse"
+
+[dependencies]
